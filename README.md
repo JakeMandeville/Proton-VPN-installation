@@ -4,7 +4,7 @@ A VPN (Virtual Private Network) is important for secure network connectivity bec
 Another benefit of using a VPN is the ability to appear as though you are browsing from a different location. By connecting through a server in another country, such as Japan, users in the United States can access region-specific versions of websites and online services.
 
 
-1. First, begin by navigating to the ProtonVPN website and install the program.
+1. First, begin by navigating to the <a href="https://protonvpn.com/">ProtonVPN website</a> and install the program.
 
 2. After the program is fully installed, open the program and start testing it.
 
