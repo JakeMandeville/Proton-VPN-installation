@@ -12,4 +12,4 @@ Another benefit of using a VPN is the ability to appear as though you are browsi
 <li>Navigate back to ProtonVPN and start connecting to the VPN
 <p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/VPN/Connect%20VPN.png"></p></li>
 <li>Finally, go back to <a href="https://whatismyipaddress.com/">whatismyipaddress.com</a> and view the new IP address.
-<p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/VPN/New%20IP.png"></li>
+<p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/VPN/New%20IP.png"></li></list>
