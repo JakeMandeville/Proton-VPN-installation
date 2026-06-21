@@ -5,11 +5,11 @@ Another benefit of using a VPN is the ability to appear as though you are browsi
 
 
 1\. First, begin by Navigating to the Proton <a href="https://protonvpn.com/?srsltid=AfmBOorZXbEeFt2G96atYY8w5jhnTSkzjDSAaJCJ7MrIsIWIlj3EyAz1">VPN website</a> and install the program.</li>
-2. After the program is fully installed you can open the program up and start testing the use of it.
+2\. After the program is fully installed you can open the program up and start testing the use of it.
 <p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/VPN/Install%20and%20set%20up%20VPN.png"></p>
-3. As a test to see what exactly this program is doing, navigate to <a href="https://whatismyipaddress.com/">whatismyipaddress.com</a> and view your current IP address Similar.
-<p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/VPN/MyIP.pngQ"></p></li>
-<li>Navigate back to ProtonVPN and start connecting to the VPN
-<p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/VPN/Connect%20VPN.png"></p></li>
-<li>Finally, go back to <a href="https://whatismyipaddress.com/">whatismyipaddress.com</a> and view the new IP address.
+3\. As a test to see what exactly this program is doing, navigate to <a href="https://whatismyipaddress.com/">whatismyipaddress.com</a> and view your current IP address Similar.
+<p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/VPN/MyIP.pngQ"></p>
+4\.Navigate back to ProtonVPN and start connecting to the VPN
+<p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/VPN/Connect%20VPN.png"></p>
+5\.Finally, go back to <a href="https://whatismyipaddress.com/">whatismyipaddress.com</a> and view the new IP address.
 <p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/VPN/New%20IP.png">
